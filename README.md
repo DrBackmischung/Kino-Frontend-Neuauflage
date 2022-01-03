@@ -1,2 +1,2 @@
-# Kino-Frontend-Neuauflage
-Neuauflage des Frolntends, da Deployment nicht mehr funktioniert
+# Kino-Frontend
+Kino-Projekt in Methoden der Wirtschaftsinformatik II - Fallstudie
